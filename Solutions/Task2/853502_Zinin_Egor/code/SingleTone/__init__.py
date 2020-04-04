@@ -1,0 +1,1 @@
+from .SingleTone import MetaSingleton
