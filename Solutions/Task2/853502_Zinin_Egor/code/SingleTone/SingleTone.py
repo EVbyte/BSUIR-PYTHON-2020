@@ -9,9 +9,3 @@ class MetaSingleton(type):
 
 class Check(metaclass=MetaSingleton):
     pass
-
-
-if __name__ == '__main__':
-    test1 = Check()
-    test2 = Check()
-    print(test1, '\n', test2)

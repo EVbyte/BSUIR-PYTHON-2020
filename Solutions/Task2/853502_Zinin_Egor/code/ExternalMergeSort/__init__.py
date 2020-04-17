@@ -1,1 +1,1 @@
-from .ExternalMergeSort import MergeSort
+from .ExternalMergeSort import ExternalSort

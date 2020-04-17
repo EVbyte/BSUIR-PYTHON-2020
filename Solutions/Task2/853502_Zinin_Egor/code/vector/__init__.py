@@ -1,1 +1,1 @@
-from .vector import NDimVec
+from .vector import Vector

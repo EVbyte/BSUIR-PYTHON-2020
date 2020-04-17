@@ -1,0 +1,1 @@
+from .JSON_task import Company, JSON
